@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyEditTextTheme">
+        <item name="colorControlNormal">#FBFBFB</item>
+        <item name="colorControlActivated">#D4DDD4</item>
+        <item name="colorControlHighlight">@color/white</item>
+        <item name="textColorSearchUrl">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="MySpinnTheme">
+        <item name="colorControlNormal">#FBFBFB</item>
+        <item name="colorControlActivated">#D4DDD4</item>
+        <item name="colorControlHighlight">@color/white</item>
+        <item name="textColorSearchUrl">@color/white</item>
+    </style>
+</resources>
